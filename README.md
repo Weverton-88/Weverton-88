@@ -1,8 +1,9 @@
 # Olá, eu sou Weverton 👋
 
-Sou estudante de Tecnologia da Informação com foco em Segurança da Informação.
-Tenho interesse em cybersecurity, análise de vulnerabilidades, boas práticas de segurança
-e proteção de sistemas, sempre com responsabilidade e ética profissional.
+Sou estudante de Tecnologia da Informação.
+🎯 Foco atual: Segurança da Informação, com ênfase em fundamentos, boas práticas, 
+análise de vulnerabilidades e proteção de sistemas, 
+sempre com responsabilidade e ética profissional.
 
 ## 🔐 Áreas de Interesse
 - Segurança da Informação
